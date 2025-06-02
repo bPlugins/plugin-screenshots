@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+  margin: 50px;
+}
+
+.canvas {
+  width: 752px;
+  height: 564px;
+  background: url("images/background.svg") no-repeat center center;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 10px;
+}
+.canvas .board {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2117647059);
+  overflow: hidden;
+}
+.canvas .board .dots {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background-color: #FF3838;
+  border-radius: 50%;
+}
+.canvas .board .dots::before, .canvas .board .dots::after {
+  content: "";
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  border-radius: 50%;
+}
+.canvas .board .dots::before {
+  left: 20px;
+  background-color: #FF8A00;
+}
+.canvas .board .dots::after {
+  left: 40px;
+  background-color: #00CE46;
+}
+.canvas .board h2 {
+  font-size: 22px;
+  font-weight: 600;
+  text-align: center;
+  color: #070127;
+  text-shadow: 3px 2px 3.5px rgba(0, 0, 0, 0.2666666667);
+  margin: 0 0 10px 0;
+}
+.canvas .board .images {
+  height: calc(100% - 35px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.canvas .board .images img {
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  max-width: 100%;
+  max-height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  border-radius: 8px;
+}
+.canvas .board .images img.shadow {
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2117647059);
+}
+.canvas .board .images.multiple {
+  position: relative;
+  width: 100%;
+}
+.canvas .board .images.multiple img {
+  position: absolute;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2117647059);
+}/*# sourceMappingURL=global.css.map */
