@@ -23,6 +23,7 @@ https://youtube.com/watch?v=_9vKv5pEClM
 The plugin offers features such as touch controls, zoom, pan, auto-rotation, and lazy loading. Users can customize viewer settings, including lighting, background, and camera angles, to suit their needs. Integration with Elementor and Gutenberg editors allows for seamless placement of 3D models using blocks or shortcodes.
 
 In WooCommerce, 3D Viewer facilitates the display of 3D product models, enhancing the user experience by allowing customers to interact with products in three dimensions. The plugin also supports the creation of galleries for multiple product variants.
+
 Designed with performance in mind, 3D Viewer ensures responsive and mobile-friendly rendering of 3D content across devices.
 
 

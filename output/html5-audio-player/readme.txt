@@ -12,6 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Maximize your WordPress site's potential with our versatile HTML5 Audio Player plugin. Seamlessly play .mp3, .wav, .ogg, and more audio files. 
 
 == Description ==
+**The Ultimate No-Code Podcast, MP3 & Audio Player Plugin for WordPress**
 
 [**HTML5 Audio Player**](https://bplugins.com/products/html5-audio-player/) | [**Documentation**](https://bplugins.com/docs/html5-audio-player/) | [**Pricing**](https://bplugins.com/products/html5-audio-player/#pricing) | [**Support**](https://bplugins.com/support/) | [**Demo**](https://bplugins.com/products/html5-audio-player/#demos)
 
@@ -21,27 +22,27 @@ Maximize your WordPress site's potential with our versatile HTML5 Audio Player p
 Built with modern HTML5 technology, this plugin works across all major browsers and iOS devices, ensuring reliable playback on any screen size. Its shortcode-based setup gives you full control over placement and player settings, making it suitable for podcasts, music tracks, audio previews, or online courses.
 
 ### Key Features – Free Version
-**Embed Anywhere**: Add audio to posts, pages, widgets, and theme templates using shortcodes.
+- **Embed Anywhere**: Add audio to posts, pages, widgets, and theme templates using shortcodes.
 
-**Responsive & Lightweight**: Adapts to all devices and doesn’t slow down your site.
+- **Responsive & Lightweight**: Adapts to all devices and doesn’t slow down your site.
 
-**Cross-Browser Support**: Works smoothly on Chrome, Firefox, Safari, Edge, IE7–IE9, and more.
+- **Cross-Browser Support**: Works smoothly on Chrome, Firefox, Safari, Edge, IE7–IE9, and more.
 
-**Inline Audio Playback**: Full support for HTML5 audio across mobile and desktop browsers.
+- **Inline Audio Playback**: Full support for HTML5 audio across mobile and desktop browsers.
 
-**Customizable Skins & Colors**: Match your player to your brand.
+- **Customizable Skins & Colors**: Match your player to your brand.
 
-**Autoplay, Loop, Mute Options**: Define how your audio behaves.
+- **Autoplay, Loop, Mute Options**: Define how your audio behaves.
 
-**Great for Podcasts**: Perfect for embedding podcast episodes or audio courses.
+- **Great for Podcasts**: Perfect for embedding podcast episodes or audio courses.
 
-**Sell Audio Previews**: Let users listen before they buy.
+- **Sell Audio Previews**: Let users listen before they buy.
 
-**Shortcode Powered**: Easy to use, yet flexible for advanced users.
+- **Shortcode Powered**: Easy to use, yet flexible for advanced users.
 
-**MP3 & OGG Support**: Automatically loads the right format based on user’s device.
+- **MP3 & OGG Support**: Automatically loads the right format based on user’s device.
 
-**Lightweight & User-Friendly**: Clean, simple UI with powerful functionality.
+- **Lightweight & User-Friendly**: Clean, simple UI with powerful functionality.
 
 
 ### Pro Version – Unlock Premium Audio Controls
@@ -49,35 +50,35 @@ Upgrade to the [**Pro version**](https://bplugins.com/products/html5-audio-playe
 
 **What’s Included in Pro:**
 
-**Color Customization**: Set custom player colors to fit your site’s style.
+- **Color Customization**: Set custom player colors to fit your site’s style.
 
-**Fast Forward & Rewind Buttons**: Set seek time for enhanced navigation.
+- **Fast Forward & Rewind Buttons**: Set seek time for enhanced navigation.
 
-**Preload Controls**: Optimize page speed with Auto, Metadata, or None settings.
+- **Preload Controls**: Optimize page speed with Auto, Metadata, or None settings.
 
-**Ad-Free Experience**: No ads, ever.
+- **Ad-Free Experience**: No ads, ever.
 
-**Restart Button Toggle**: Choose whether users can restart audio.
+- **Restart Button Toggle**: Choose whether users can restart audio.
 
-**Download Button Toggle**: Show or hide the download option.
+- **Download Button Toggle**: Show or hide the download option.
 
-**Customize Playback Controls**: Control visibility of play, mute, progress, and duration elements.
+- **Customize Playback Controls**: Control visibility of play, mute, progress, and duration elements.
 
-**Volume & Speed Control**: Let users adjust the playback experience.
+- **Volume & Speed Control**: Let users adjust the playback experience.
 
-**Upload Poster Image**: Add a visual element to your player.
+- **Upload Poster Image**: Add a visual element to your player.
 
-**Title Support**: Display custom audio titles.
+- **Title Support**: Display custom audio titles.
 
-**Player Skins**: Choose from Default, Fusion, Stamp, Wave, and more.
+- **Player Skins**: Choose from Default, Fusion, Stamp, Wave, and more.
 
-**Disable Pause Option**: Keep audio playing without interruption.
+- **Disable Pause Option**: Keep audio playing without interruption.
 
-**Advanced Player Types**: Choose from Standard, Playlist, or Sticky Player.
+- **Advanced Player Types**: Choose from Standard, Playlist, or Sticky Player.
 
-**Border Radius Control**: Style your player’s corners.
+- **Border Radius Control**: Style your player’s corners.
 
-**Single Button Player**: Minimalist design for single-action audio playback.
+- **Single Button Player**: Minimalist design for single-action audio playback.
 
 [**Try the HTML5 Audio Player PRO**](https://bplugins.com/products/html5-audio-player/#pricing) – Unlock all premium features now!
 
