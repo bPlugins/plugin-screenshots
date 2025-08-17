@@ -17,6 +17,22 @@ html {
   margin: 50px;
 }
 
+.downloadBtn {
+  padding: 12px 38px;
+  border: none;
+  background: #146ef5;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.downloadBtn:hover, .downloadBtn:focus, .downloadBtn:active {
+  outline: 0;
+  border: none;
+  box-shadow: none;
+}
+
 .canvas {
   width: 752px;
   height: 564px;
